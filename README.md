@@ -52,8 +52,7 @@ Once the contract is deployed, you can interact with it by calling the mint and 
 
 ## Authors
 
-Metacrafter Chris  
-[@metacraftersio](https://twitter.com/metacraftersio)
+Metacrafter  jeffryanpol
 
 
 ## License
